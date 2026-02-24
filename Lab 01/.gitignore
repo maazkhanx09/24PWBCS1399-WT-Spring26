@@ -1,0 +1,7 @@
+all .log files and the temp/ directory should be ignored by Git.
+
+# Ignore all log files
+*.log
+
+# Ignore temp directory
+temp/
